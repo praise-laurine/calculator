@@ -13,4 +13,4 @@ Copyright © 2020 calculator app.
 ## Technologies Used
 - HTML used as a building block for the webpage
 - CSS used for styling the webpage
--Javascript used to write functions
+- Javascript used to write functions
